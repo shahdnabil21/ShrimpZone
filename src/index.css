@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@import "flowbite/src/themes/default";
+@plugin "flowbite/plugin";
+@source "../node_modules/flowbite";
+@import "../public/css/all.css"; 
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background-color: #fffbeb;
+}

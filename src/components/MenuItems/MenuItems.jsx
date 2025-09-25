@@ -1,0 +1,82 @@
+export const menuItems = {
+  "Orders Per Kilo": [
+    { id: 1, name: "Zander Fish Fillet", tag: "Popular", image: "/imgs/per-kilo/Zander Fish Fillet.jpg",price: 280 },
+    { id: 2, name: "Large Peeled Shrimp", image: "/imgs/per-kilo/Large Peeled Shrimp.jpg",price: 420},
+    { id: 3, name: "Medium Shrimp Unpealed", image: "/imgs/per-kilo/Medium Shrimp Unpealed.jpg",price: 420},
+    { id: 4, name: "Super Large Peeled Shrimp", image: "/imgs/per-kilo/Super Large Peeled Shrimp.jpg",price: 490},
+    { id: 5, name: "Crabs", image: "/imgs/per-kilo/Crabs.jpg",price: 280},
+    { id: 6, name: "Clams", image: "/imgs/per-kilo/Clams.jpg",price: 200},
+    { id: 7, name: "Lobster", image: "/imgs/per-kilo/Lobster.jpg",price: 800},
+    { id: 8, name: "Grilled Salmon", image: "/imgs/per-kilo/Grilled Salmon.jpg",price: 420},
+    { id: 9, name: "Super Large Shrimp With Shell", image: "/imgs/per-kilo/Super Large Shrimp With Shell.jpg",price: 490},
+    { id: 10, name: "Peeled Medium Shrimp", image: "/imgs/per-kilo/Peeled Medium Shrimp.jpg",price: 350},
+    { id: 12, name: "Squid", image: "/imgs/per-kilo/Squid.jpg",price: 365},
+
+  ],
+  Soups: [
+    { id: 13, name: "Bisque Shrimp Soup", image: "/imgs/Soups/Bisque Shrimp Soup.jpg" ,price: 260},
+    { id: 14, name: "Seafood With Cream Soup", image: "/imgs/Soups/Seafood With Cream Soup.jpg" ,price: 295},
+    { id: 15, name: "Shrimpawy Soup", image: "/imgs/Soups/Shrimpawy Soup.jpg" ,price: 160},
+  ],
+  Salads: [
+    { id: 16, name: "Garlic Dip Salad", image: "/imgs/Salads/Garlic Dip Salad.jpg",price:  12},
+    { id: 17, name: "Sesame Paste Salad", image: "/imgs/Salads/Sesame Paste Salad.jpg",price:  12},
+    { id: 18, name: "Kozbaria Salad", image: "/imgs/Salads/Kozbaria Salad.jpg",price:  10},
+    { id: 19, name: "Herring Salad", image: "/imgs/Salads/Herring Salad.jpg",price:  15},
+    { id: 20, name: "Green Salad", image: "/imgs/Salads/Green Salad.jpg",price:  10},
+    { id: 21, name: "Pickles", image: "/imgs/Salads/Pickles.jpg",price:  10},
+    { id: 22, name: "Coleslaw Salad", image: "/imgs/Salads/Coleslaw Salad.jpg",price:  10},
+    { id: 23, name: "Local Beet", image: "/imgs/Salads/Local Beet.jpg",price:  15},
+    { id: 24, name: "Pickled Eggplant", image: "/imgs/Salads/Pickled Eggplant.webp",price:  10}
+  ],
+  Sandwiches: [
+    { id: 25, name: "Fried Shrimp Sandwich", image: "/imgs/Sandwiches/Fried Shrimp Sandwich.jpg",price: 45},
+    { id: 26, name: "Shrimp Fajita Sandwich", image: "/imgs/Sandwiches/Shrimp Fajita Sandwich.jpg",price: 45},
+    { id: 27, name: "Crispy Shrimp Sandwich", image: "/imgs/Sandwiches/Crispy Shrimp Sandwich.jpg",price: 45},
+    { id: 28, name: "Spicy Fried Shrimp With Cheese Sandwich", image: "/imgs/Sandwiches/Spicy Fried Shrimp With Cheese Sandwich.jpg",price: 45},
+    { id: 29, name: "Fried Squid Sandwich", image: "/imgs/Sandwiches/Fried Squid Sandwich.jpg",price: 45},
+    { id: 31, name: "Crispy Squid Sandwich", image: "/imgs/Sandwiches/Crispy Squid Sandwich.jpg",price: 45},
+    { id: 32, name: "Fried Fish Fingers Sandwich", image: "/imgs/Sandwiches/Fried Fish Fingers Sandwich.jpg",price: 45},
+    { id: 33, name: "Pop Corn Fish Sandwich With Cheese", image: "/imgs/Sandwiches/Pop Corn Fish Sandwich With Cheese.jpg",price: 45},
+    { id: 34, name: "Fried Crab Fingers Sandwich", image: "/imgs/Sandwiches/Fried Crab Fingers Sandwich.jpg",price: 60},
+    { id: 35, name: "Smoked Salmon Sandwich", image: "/imgs/Sandwiches/Smoked Salmon Sandwich.jpg",price: 100},
+  ],
+  "Meals And Platters": [
+    { id: 36, name: "Mix Grilled Seafood", image: "/imgs/Meals/Mix Grilled Seafood.jpg",price: 90},
+    { id: 37, name: "Shrimp With Butter Platter", image: "/imgs/Meals/Shrimp With Butter Platter.jpg",price: 90},
+    { id: 38, name: "Oven Grilled Shrimp Platter", image: "/imgs/Meals/Oven Grilled Shrimp Platter.jpg",price: 95},
+    { id: 39, name: "Butterfly Shrimp Platter", image: "/imgs/Meals/Butterfly Shrimp Platter.jpg",price: 95},
+    { id: 40, name: "Shrimp With Grits Platte", image: "/imgs/Meals/Shrimp With Grits Platte.jpg",price: 75},
+    { id: 41, name: "Alexandrian Shrimp Platter", image: "/imgs/Meals/Alexandrian Shrimp Platter.jpg",price: 95},
+    { id: 42, name: "Fried Fish Fillet Platter Crispy", image: "/imgs/Meals/Fried Fish Fillet Platter Crispy.jpg",price: 75},
+    { id: 43, name: "Sayadaia Fillet Platter", image: "/imgs/Meals/Sayadaia Fillet Platter.jpg",price: 75},
+    { id: 44, name: "Tartar Fillet Platter", image: "/imgs/Meals/Tartar Fillet Platter.jpg",price: 85},
+    { id: 45, name: "Grilled Salmon With Garlic Butter Platter", image: "/imgs/Meals/Grilled Salmon With Garlic Butter Platter.jpg",price: 90}
+  ],
+  Casseroles: [
+    { id: 46, name: "Sayadaia Squid Casserole", image: "/imgs/Casseroles/Sayadaia Squid Casserole.jpg",price: 90},
+    { id: 47, name: "Shrimp With Onion And Garlic Casserole", image: "/imgs/Casseroles/Shrimp With Onion And Garlic Casserole.jpg",price: 95},
+    { id: 48, name: "Dynamite Casserole", image: "/imgs/Casseroles/Dynamite Casserole.jpg",price: 110},
+    { id: 49, name: "Seafood White Sauce Casserole", image: "/imgs/Casseroles/Seafood White Sauce Casserole.jpg",price: 90},
+    { id: 50, name: "Caviar Casserole", image: "/imgs/Casseroles/Caviar Casserole.jpg",price: 160},
+    { id: 51, name: "Seafood Fatteh", image: "/imgs/Casseroles/Seafood Fatteh.jpg",price: 100},
+  ],
+  Pastas: [
+    { id: 52, name: "SAlfredo Pasta With Shrimp", image: "/imgs/Pastas/SAlfredo Pasta With Shrimp.jpg",price: 85},
+    { id: 53, name: "Oven Baked Pasta With Shrimp And Cream", image: "/imgs/Pastas/Oven Baked Pasta With Shrimp And Cream.jpg",price: 85},
+    { id: 54, name: "Shrimp Red Sauce Pasta", image: "/imgs/Pastas/Shrimp Red Sauce Pasta.jpg",price: 85},
+    { id: 55, name: "Alfredo Pasta With Caviar", image: "/imgs/Pastas/Alfredo Pasta With Caviar.jpg",price: 120},
+    { id: 56, name: "Creamy Salmon Pasta", image: "/imgs/Pastas/Creamy Salmon Pasta.jpg",price: 120},
+  ],
+  Rice: [
+    { id: 57, name: "Sayadaia Rice", image: "/imgs/Rice/Sayadaia Rice.jpg",price: 16},
+    { id: 58, name: "Rice With Fried Shrimp", image: "/imgs/Rice/Rice With Fried Shrimp.jpg",price: 50},
+    { id: 59, name: "Rice With Seafood", image: "/imgs/Rice/Rice With Seafood.jpg",price: 50},
+  ],
+  Trays: [
+    { id: 60, name: "Mazagngi Combo", image: "/imgs/Trays/Mazagngi Combo.jpg",price: 1500 },
+    { id: 61, name: "Shrimp Zone Tray", image: "/imgs/Trays/Shrimp Zone Tray.jpeg",price: 1300 },
+    { id: 62, name: "Phosphorina Tray", image: "/imgs/Trays/Phosphorina Tray.png",price: 790},
+    { id: 64, name: "El Viagra Tray", image: "/imgs/Trays/El Viagra Tray.jpg",price: 490},
+  ]
+};
