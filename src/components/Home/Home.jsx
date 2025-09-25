@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "../../assets/imgs/Shrimpzone.png";
+import logo from "../../assets/imgs/shrimpzone.png";
 import img1 from "../../assets/imgs/menuimgs/soups/seaFood Creamy soup.jpg";
 import img2 from "../../assets/imgs/menuimgs/Casseroles/Dynamite Casserole.jpg";
 import img3 from "../../assets/imgs/menuimgs/maindish/grield seafood.jpg";
